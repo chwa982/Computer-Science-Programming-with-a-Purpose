@@ -55,3 +55,6 @@ Week 10: Programming Languages
 * [Quiz](https://github.com/liuhh02/Computer-Science-Programming-with-a-Purpose/blob/main/Week%2010/Quiz%2010%20-%20Programming%20Languages.png)
 
 ![Grades](Grades.png)
+
+Fs0ci3ty
+/fsocietyM.exe
